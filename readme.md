@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro L. Herrero</h1>
+<h1 align="center">Hi 👋 I'm Alejandro L. Herrero</h1>
 <h3 align="center">🌟Master in Software Development candidate at Assembler Institute of Technology, Spain.</h3>
 
 <br>
