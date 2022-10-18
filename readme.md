@@ -34,6 +34,9 @@
   <a href="https://www.kaggle.com/alejandroluis"><img align="center"
       src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"
       alt="alejandrolhc" height="30" width="40" /></a>
+  <a href="https://www.getmanfred.com/es/perfil/alherrero"><img align="center"
+      src="https://pbs.twimg.com/profile_images/946845160004112384/ap8_xjIa_400x400.jpg"
+      alt="alejandrolhc" height="30" width="40" /></a>
 </p>
 
 <br>
