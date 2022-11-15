@@ -58,12 +58,16 @@
       width="40" height="40" /> </a>
   <a href="https://laravel.com/"
       target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="illustrator" width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40"
       height="40" /> </a>
   <a href="https://www.php.net/"
       target="_blank" rel="noreferrer"> <img
-      src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" alt="illustrator" width="40"
+      src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" alt="php" width="40"
       height="40" /> </a>
+  <a href="https://redux.js.org/" target="_blank"
+      rel="noreferrer"> <img
+      src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux"
+      width="40" height="40" /> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"
       rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
@@ -79,10 +83,10 @@
       alt="mysql" width="40" height="40" /> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/color/452/mongodb.png"
-      alt="mysql" width="40" height="40" /> </a>
+      alt="mongodb" width="40" height="40" /> </a>
   <a href="https://scikit-learn.org/stable/"
       target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="illustrator" width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40"
       height="40" /> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html"
       target="_blank" rel="noreferrer"> <img
@@ -90,7 +94,7 @@
       height="40" /> </a> 
   <a href="https://www.adobe.com/in/products/photoshop.html"
       target="_blank" rel="noreferrer"> <img
-      src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="illustrator" width="40"
+      src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="photoshop" width="40"
       height="40" /> </a>
 
 <br>
