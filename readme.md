@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **alejandrolhc@gmail.com**
 
-- ⚡ Hobbies: Music🎵 Games🎮 and Adventure🏍️🏕️
+- ⚡ Hobbies: Music🎵 Games🎮 & Adventure🏍️🏕️
 
 <br>
 
