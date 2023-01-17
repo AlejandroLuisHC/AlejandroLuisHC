@@ -63,6 +63,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest"
+      width="40" height="40" /> </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img
+      src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/03/cypress.png?fit=364%2C364&ssl=1" alt="cypress"
+      width="40" height="40" /> </a>
   <a href="https://laravel.com/"
       target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40"
