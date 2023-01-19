@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Alejandro L. Herrero</h1>
+# Hi 👋 I'm Alejandro L. Herrero</h1>
 
 <p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat"
     alt="AlejandroLuisHC" /> 
