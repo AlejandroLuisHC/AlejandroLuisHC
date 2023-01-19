@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋 I'm Alejandro L. Herrero</h1>
-<h3 align="center">🌟Master in Software Development candidate at Assembler Institute of Technology, Spain.</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat"
     alt="AlejandroLuisHC" /> 
-  </p>
+</p>
 
-<br>
+## Summary
+- 🌱 Master in Software Development with experience in web development and other programming languages.
+
+- 💻 Strong skills in <b>JavaScript/TypeScript, Node.js, React, Redux</b> and other technologies.
 
 <p><img align="right" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" alt="coding gif" width="450" height="310" /></p>
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
+- ⚡Hobbies: Music 🎵, games 🎮, and adventure 🏍️🏕️
 
 - 📫 How to reach me **alejandrolhc@gmail.com**
 
-- ⚡ Hobbies: Music🎵 Games🎮 & Adventure🏍️🏕️
-
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## Connect With Me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandrolherrero" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -41,7 +39,8 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
+
   <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -111,8 +110,9 @@
       height="40" /> </a>
 
 <br>
-
-<h3>Statistical Data :</h3>
+    
+## Statistical Data:
+    
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroLuisHC&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="AlejandroLuisHC" 
