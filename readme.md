@@ -1,4 +1,4 @@
-# Welcome to Alejandro L. Herrero's Codebase
+# Welcome to Alejandro L. Herrero's Codebase 👨‍💻
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat)
 
