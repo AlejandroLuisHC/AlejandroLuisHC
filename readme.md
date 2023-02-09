@@ -45,6 +45,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/color/452/mongodb.png"
       alt="mongodb" width="auto" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="auto" height="40" /> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="auto" height="40" /> </a>
@@ -96,9 +99,6 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="auto" height="40" /> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="auto" height="40" /> </a>
   <a href="https://scikit-learn.org/stable/"
       target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="auto"
