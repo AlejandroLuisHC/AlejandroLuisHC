@@ -30,9 +30,6 @@
   <a href="https://www.getmanfred.com/es/perfil/alherrero"><img align="center"
       src="https://pbs.twimg.com/profile_images/946845160004112384/ap8_xjIa_400x400.jpg"
       alt="alejandrolhc" height="30" width="auto" /></a>
-  <a href="https://instagram.com/srsmithry" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="srsmithry" height="30" width="auto" /></a>
 </p>
 <br>
 
