@@ -63,11 +63,25 @@
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest"
       width="auto" height="40" /> </a>
+  <a href="https://aws.amazon.com/es/lambda/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS-Lambda" width="auto" height="40" /> </a>
+  <a href="https://aws.amazon.com/es/api-gateway/" target="_blank" rel="noreferrer"> <img
+      src="https://kagarlickij.com/wp-content/uploads/2019/03/aws-api-gateway-icon.png" alt="AWS-Api-Gateway"
+      width="auto" height="40" /> </a>
+  <a href="https://aws.amazon.com/es/dynamodb/" target="_blank" rel="noreferrer"> <img
+      src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" alt="AWS-DynamoDB"
+      width="auto" height="40" /> </a>
+  <a href="https://aws.amazon.com/es/sam/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/Thiagosnts/step-sam/master/icon-2.svg" alt="AWS-SAM"
+      width="auto" height="40" /> </a>
+  <a href="https://aws.amazon.com/es/cloudformation/" target="_blank" rel="noreferrer"> <img
+      src="https://static-00.iconduck.com/assets.00/aws-cloudformation-icon-420x512-ihv314dk.png" alt="AWS-CloudFormation"
+      width="auto" height="40" /> </a>
+  <a href="https://aws.amazon.com/es/s3/" target="_blank" rel="noreferrer"> <img
+      src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png" alt="AWS-S3"
+      width="auto" height="40" /> </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img
       src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/03/cypress.png?fit=364%2C364&ssl=1" alt="cypress"
-      width="auto" height="40" /> </a>
-   <a href="https://aws.amazon.com/es/s3/" target="_blank" rel="noreferrer"> <img
-      src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png" alt="AWS-S3"
       width="auto" height="40" /> </a>
    <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img
       src="https://res.cloudinary.com/demo/image/upload/e_shadow/cloudinary_icon.png" alt="Cloudinary"
