@@ -8,7 +8,7 @@
 - 💻 Stack Attack: <b>MERN Full-Stack Development</b> and other technologies.
 
 <img
-  src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive.gif" 
+  src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-inf.gif" 
   alt="gif" align="right" height="280px" 
 />  
 
