@@ -7,7 +7,10 @@
 
 - 💻 Stack Attack: <b>MERN Full-Stack Development</b> and other technologies.
 
-![gif](https://github.com/AlejandroLuisHC/AlejandroLuisHC/assets/producive-gif.gif)
+<img
+  src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-gif.gif" 
+  alt="gif" align="right" height="300px" 
+/>
 
 - ⚡Hobbies: Music 🎵, games 🎮, and adventure 🏍️🏕️
 
