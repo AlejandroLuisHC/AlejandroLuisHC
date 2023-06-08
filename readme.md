@@ -3,14 +3,14 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat)
 
 ## A Glimpse of Me 🕵️
-- 🌱 Master in Software Development with experience in web development and other programming languages.
+- 🌱 Master in Software Development with experience in web development and other programming languages. 
 
 - 💻 Stack Attack: <b>MERN Full-Stack Development</b> and other technologies.
 
 <img
-  src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-gif.gif" 
-  alt="gif" align="right" height="300px" 
-/>
+  src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive.gif" 
+  alt="gif" align="right" height="280px" 
+/>  
 
 - ⚡Hobbies: Music 🎵, games 🎮, and adventure 🏍️🏕️
 
