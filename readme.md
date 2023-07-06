@@ -71,6 +71,18 @@
       alt="AWS-Api-Gateway" width="auto" height="40" 
     /> 
   </a>
+  <a href="https://aws.amazon.com/es/appsync/" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://static.us-east-1.prod.workshops.aws/public/61421e32-ba0f-4814-8e7c-57b211435f48/static/appsync-logo-600.png" 
+      alt="AWS-AppSync" width="auto" height="40" 
+    /> 
+  </a>
+  <a href="https://aws.amazon.com/es/graphql/" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://d1.awsstatic.com/AWS%20Amplify/Mobile%20site/GraphQL%20Logo.3cd58ca96ec7fd4fc1135c4ca79a9b4c3855f1a9.png" 
+      alt="AWS-GraphQL" width="auto" height="40" 
+    /> 
+  </a>
   <a href="https://aws.amazon.com/es/dynamodb/" target="_blank" rel="noreferrer"> 
     <img
       src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" 
