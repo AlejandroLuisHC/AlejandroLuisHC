@@ -3,9 +3,11 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat)
 
 ## A Glimpse of Me 🕵️
-- 🌱 Master in Software Development with experience in web development and other programming languages. 
+- 🚀 **Backend Developer** specializing in **AWS environment**, powering finance-related P2P payment software.
 
-- 💻 Stack Attack: <b>MERN Full-Stack Development</b> and other technologies.
+- ⚙️ Leveraging **AWS Services** to build scalable and efficient **backend architectures**.
+
+- ⛓️ Utilizing **blockchain technology** to facilitate seamless and secure cross-border transactions on a global scale.
 
 <img
   src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-inf.gif" 
