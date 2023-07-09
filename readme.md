@@ -95,7 +95,6 @@
       alt="react" width="auto" height="40" 
     /> 
   </a>
-  <br>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
     <img
       src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" 
@@ -162,7 +161,6 @@
       alt="html5" width="auto" height="40" 
     /> 
   </a>
-  <br>
   <a href="https://styled-components.com" target="_blank" rel="noreferrer">
     <img 
       src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"
