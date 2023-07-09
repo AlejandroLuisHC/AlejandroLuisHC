@@ -16,29 +16,9 @@
 
 - ⚡Hobbies: Music 🎵, games 🎮, and adventure 🏍️🏕️
 
-- 📫 How to reach me: **alejandrolhc@gmail.com**
-
-<br>
-
-## My Digital Doorstep: <br> How to Contact Me 💬
-
-<a href="https://www.linkedin.com/in/alejandrolherrero" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="alejandrolherrero" height="30" width="auto" />
-  </a>
-<a href="https://www.hackerrank.com/alejandrolhc" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="alejandrolhc" height="30" width="auto" />
-  </a>
-<a href="https://www.kaggle.com/alejandroluis"><img align="center"
-      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"
-      alt="alejandrolhc" height="30" width="auto" />
-  </a>
-<a href="https://www.getmanfred.com/es/perfil/alherrero"><img align="center"
-      src="https://pbs.twimg.com/profile_images/946845160004112384/ap8_xjIa_400x400.jpg"
-      alt="alejandrolhc" height="30" width="auto" />
-  </a>
-<br>
+- 📫 How to reach me: 
+  - **alejandrolhc@gmail.com**
+  - **[LinkedIn](https://www.linkedin.com/in/alejandrolherrero)**
 <br>
 
 ## My Toolbox: 🛠️
@@ -115,6 +95,7 @@
       alt="react" width="auto" height="40" 
     /> 
   </a>
+  <br>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
     <img
       src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" 
@@ -151,12 +132,6 @@
       alt="Cloudinary" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" 
-      alt="laravel" width="auto" height="40" 
-    /> 
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img
       src="https://img.icons8.com/color/452/mongodb.png"
@@ -187,6 +162,7 @@
       alt="html5" width="auto" height="40" 
     /> 
   </a>
+  <br>
   <a href="https://styled-components.com" target="_blank" rel="noreferrer">
     <img 
       src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"
@@ -204,7 +180,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" 
       alt="scikit-learn" width="auto" height="40" 
     /> 
-  </a> 
+  </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
