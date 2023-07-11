@@ -143,12 +143,6 @@
       alt="mysql" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-php-elephant-logo-vectors-download-5.png" 
-      alt="php" width="auto" height="40" 
-    /> 
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
