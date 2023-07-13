@@ -100,7 +100,13 @@
       src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" 
       alt="redux toolkit" width="auto" height="40" 
     /> 
-  </a> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" 
+      alt="Firebase" width="auto" height="40" 
+    /> 
+  </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
     <img
       src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" 
