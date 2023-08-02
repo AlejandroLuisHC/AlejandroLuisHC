@@ -29,61 +29,61 @@
       alt="nodejs" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="auto" height="40" 
-    /> 
-  </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
       alt="typescript" width="auto" height="40" 
     />
   </a>
-  <a href="https://aws.amazon.com/es/lambda/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> 
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" 
       alt="AWS-Lambda" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://aws.amazon.com/es/api-gateway/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"> 
     <img
       src="https://kagarlickij.com/wp-content/uploads/2019/03/aws-api-gateway-icon.png" 
       alt="AWS-Api-Gateway" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://aws.amazon.com/es/appsync/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/appsync/" target="_blank" rel="noreferrer"> 
     <img
       src="https://static.us-east-1.prod.workshops.aws/public/61421e32-ba0f-4814-8e7c-57b211435f48/static/appsync-logo-600.png" 
       alt="AWS-AppSync" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://aws.amazon.com/es/graphql/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/graphql/" target="_blank" rel="noreferrer"> 
     <img
       src="https://d1.awsstatic.com/AWS%20Amplify/Mobile%20site/GraphQL%20Logo.3cd58ca96ec7fd4fc1135c4ca79a9b4c3855f1a9.png" 
       alt="AWS-GraphQL" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://aws.amazon.com/es/dynamodb/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
     <img
       src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" 
       alt="AWS-DynamoDB" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://aws.amazon.com/es/sam/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/sam/" target="_blank" rel="noreferrer"> 
     <img
       src="https://raw.githubusercontent.com/Thiagosnts/step-sam/master/icon-2.svg" 
       alt="AWS-SAM" width="auto" height="40"
     /> 
   </a>
-  <a href="https://aws.amazon.com/es/cloudformation/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"> 
     <img 
       src="https://static-00.iconduck.com/assets.00/aws-cloudformation-icon-420x512-ihv314dk.png" 
       alt="AWS-CloudFormation" width="auto" height="40" 
     /> 
   </a>
-  <a href="https://aws.amazon.com/es/s3/" target="_blank" rel="noreferrer"> 
+  <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_CloudFront-512.png" 
+      alt="AWS-CloudFront" width="auto" height="40" 
+    /> 
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
     <img
       src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png" 
       alt="AWS-S3" width="auto" height="40" 
@@ -125,6 +125,12 @@
       alt="cypress" width="auto" height="40" 
     /> 
   </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="auto" height="40" 
+    /> 
+  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
