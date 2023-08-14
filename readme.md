@@ -3,7 +3,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat)
 
 ## A Glimpse of Me 🕵️
-- 🚀 **Backend Developer** specializing in **AWS environment**, powering finance-related P2P payment software.
+- 🚀 **Backend Developer** specializing in **AWS serverless** architecture, powering finance-related P2P payment software.
 
 - ⚙️ Leveraging **AWS Services** to build scalable and efficient **backend architectures**.
 
@@ -23,200 +23,45 @@
 
 ## My Toolbox: 🛠️
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-      alt="typescript" width="auto" height="40" 
-    />
-  </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" 
-      alt="AWS-Lambda" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/api-gateway/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://kagarlickij.com/wp-content/uploads/2019/03/aws-api-gateway-icon.png" 
-      alt="AWS-Api-Gateway" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/appsync/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://static.us-east-1.prod.workshops.aws/public/61421e32-ba0f-4814-8e7c-57b211435f48/static/appsync-logo-600.png" 
-      alt="AWS-AppSync" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/graphql/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://d1.awsstatic.com/AWS%20Amplify/Mobile%20site/GraphQL%20Logo.3cd58ca96ec7fd4fc1135c4ca79a9b4c3855f1a9.png" 
-      alt="AWS-GraphQL" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-53ebjxww.png" 
-      alt="AWS-DynamoDB" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/sam/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/Thiagosnts/step-sam/master/icon-2.svg" 
-      alt="AWS-SAM" width="auto" height="40"
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://static-00.iconduck.com/assets.00/aws-cloudformation-icon-420x512-ihv314dk.png" 
-      alt="AWS-CloudFormation" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/cloudfront/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_CloudFront-512.png" 
-      alt="AWS-CloudFront" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://user-images.githubusercontent.com/2277182/75613896-f24f5800-5b32-11ea-966e-4ed4b41f873a.png" 
-      alt="AWS-S3" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" 
-      alt="redux toolkit" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" 
-      alt="Firebase" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" 
-      alt="jest" width="auto" height="40" 
-    /> 
-  </a>
-   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-     <img
-      src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" 
-      alt="cucumber" width="auto" height="40" 
-     /> 
-  </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/03/cypress.png?fit=364%2C364&ssl=1" 
-      alt="cypress" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="auto" height="40" 
-    /> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-      alt="python" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://res.cloudinary.com/demo/image/upload/e_shadow/cloudinary_icon.png" 
-      alt="Cloudinary" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://img.icons8.com/color/452/mongodb.png"
-      alt="mongodb" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" width="auto" height="40" 
-    /> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://styled-components.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"
-      alt="styled-components" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="auto" height="40" 
-    /> 
-  </a> 
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" 
-      alt="scikit-learn" width="auto" height="40" 
-    /> 
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
-      alt="illustrator" width="auto" height="40" 
-    /> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" 
-      alt="photoshop" width="auto" height="40" 
-    /> 
-  </a>
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <br>
 <br>
     
 ## Code Counts: <br> A Statistical Summary 📊
     
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejandroLuisHC&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="AlejandroLuisHC" 
-    bg_color=#808080/></p>
+![Anurag's GitHub stats](https://github-readme-stats-ashen-mu-97.vercel.app/api?username=AlejandroLuisHC\&rank_icon=percentile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
+  alt="AlejandroLuisHC" 
+/>
+![Harlok's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
+![Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
 
-<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlejandroLuisHC&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="AlejandroLuisHC" /></p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AlejandroLuisHC" /></p>
-
-<br>
 
 ## You've reached the pun-ishing point, enjoy the joke! 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
