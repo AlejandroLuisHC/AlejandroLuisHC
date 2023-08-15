@@ -7,7 +7,7 @@
 
 <img
   src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-inf.gif" 
-  alt="gif" align="right" height="280px" 
+  alt="gif" align="right" height="270px" 
 />  
 
 - ⚙️ Leveraging **AWS Services** to build scalable and efficient **backend architectures**.
