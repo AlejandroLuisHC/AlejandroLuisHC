@@ -1,6 +1,6 @@
 # Welcome to Alejandro L. Herrero's Codebase 👨‍💻
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat)
+![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat&label=Visitor+number)
 
 ## A Glimpse of Me 🕵️
 - 🚀 **Backend Developer** specializing in **AWS serverless** architecture, powering finance-related P2P payment software.
