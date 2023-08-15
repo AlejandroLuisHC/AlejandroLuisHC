@@ -22,7 +22,6 @@
 <br>
 
 ## My Toolbox: 🛠️
-
 ### Back-End Development:
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,12 +54,12 @@
 ### Collaboration and Communication:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
 <br>
 <br>
     
 ## Code Counts: <br> A Statistical Summary 📊
-    
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats-ashen-mu-97.vercel.app/api?username=AlejandroLuisHC\&rank_icon=percentile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
@@ -68,9 +67,6 @@
 />
 ![Harlok's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
 ![Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
-
-
-
 
 ## You've reached the pun-ishing point, enjoy the joke! 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
