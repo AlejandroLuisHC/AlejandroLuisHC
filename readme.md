@@ -5,14 +5,14 @@
 ## A Glimpse of Me 🕵️
 - 🚀 **Backend Developer** specializing in **AWS serverless** architecture, powering finance-related P2P payment software.
 
-- ⚙️ Leveraging **AWS Services** to build scalable and efficient **backend architectures**.
-
-- ⛓️ Utilizing **blockchain technology** to facilitate seamless and secure cross-border transactions on a global scale.
-
 <img
   src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-inf.gif" 
   alt="gif" align="right" height="280px" 
 />  
+
+- ⚙️ Leveraging **AWS Services** to build scalable and efficient **backend architectures**.
+
+- ⛓️ Utilizing **blockchain technology** to facilitate seamless and secure cross-border transactions on a global scale.
 
 - ⚡Hobbies: Music 🎵, games 🎮, and adventure 🏍️🏕️
 
