@@ -62,9 +62,9 @@
 ## Code Counts: <br> A Statistical Summary 📊
 <br>
 
-| ![Anurag's GitHub stats](https://github-readme-stats-ashen-mu-97.vercel.app/api?username=AlejandroLuisHC\&rank_icon=percentile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&border=0d1117" alt="AlejandroLuisHC" /> | 
+| ![AlejandroLuisHC's GitHub stats](https://github-readme-stats-ashen-mu-97.vercel.app/api?username=AlejandroLuisHC\&rank_icon=percentile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&border=0d1117" alt="AlejandroLuisHCStreakStats" /> | 
 | ------------- | ------------- |
-| ![Harlok's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | ![Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) |
+| ![AlejandroLuisHC's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | ![AlejandroLuisHC's Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) |
 
 ## You've reached the pun-ishing point, enjoy the joke! 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
