@@ -5,7 +5,7 @@
 </p>
 
 ## A Glimpse of Me 🕵️
-- 🚀 **Cloud Backend Developer** specializing in **AWS serverless** architecture, powering finance-related P2P payment software.
+- 🚀 **Cloud Software Developer** specializing in **AWS serverless** architecture, powering finance-related P2P payment software.
 
 <img
   src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-inf.gif" 
