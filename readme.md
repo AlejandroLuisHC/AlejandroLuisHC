@@ -16,7 +16,7 @@
 
 - ⛓️ Utilizing **blockchain technology** to facilitate seamless and secure cross-border transactions on a global scale.
 
-- ⚡Hobbies: Music 🎵, games 🎮, and adventure 🏍️🏕️
+- ⚡Hobbies: Music 🎵, fantasy 🧙‍♂️, games 🎮, and adventure 🏍️🏕️
 
 - 📫 How to reach me: <br>
       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrolherrero)
