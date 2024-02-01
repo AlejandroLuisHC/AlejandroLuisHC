@@ -71,7 +71,9 @@
 
 | ![AlejandroLuisHC's GitHub stats](https://github-readme-stats-ashen-mu-97.vercel.app/api?username=AlejandroLuisHC\&rank_icon=percentile&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&border=0d1117" alt="AlejandroLuisHCStreakStats" /> | 
 | ------------- | ------------- |
-| ![AlejandroLuisHC's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | ![AlejandroLuisHC's Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) |
+| ![AlejandroLuisHC's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | ![AlejandroLuisHC's Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroLuisHC&theme=darkhub&margin-w=20)
 
 <sup><i>Hint: If the stats are not displaying, try refreshing.</i></sup>
 
