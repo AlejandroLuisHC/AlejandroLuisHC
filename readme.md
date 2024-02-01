@@ -14,7 +14,7 @@
 
 - ⚙️ Leveraging **AWS Services** to build scalable and efficient **architectures**.
 
-- ⛓️ Utilizing **blockchain technology** to facilitate seamless and secure cross-border transactions on a global scale.
+- ⛓️ Utilizing **blockchain technology** to facilitate seamless and secure data storage, decentralized identity management, and smart contract execution.
 
 - ⚡Hobbies: Music 🎵, fantasy 🧙‍♂️, games 🎮, and adventure 🏍️🏕️
 
