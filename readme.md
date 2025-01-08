@@ -5,14 +5,14 @@
 </p>
 
 ## A Glimpse of Me 🕵️
-- 🚀 **Software Developer** specializing in cloud architecture leveraging **AWS Serverless** services, powering diverse projects, ranging from **blockchain implementations**, **P2P payment solutions** and more!
+- 🚀 **Software Developer** specialized in **serverless architectures**, powering diverse projects, ranging from **blockchain implementations**, **P2P payment solutions** to many more!
 
 <img
   src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-inf.gif" 
   alt="gif" align="right" height="270px" 
 />  
 
-- ⚙️ Leveraging **AWS Services** to build scalable and efficient **architectures**.
+- ⚙️ Leveraging **AWS Cloud Services** to build scalable and efficient **architectures**.
 
 - ⚡Hobbies: Music 🎵, fantasy 🧙‍♂️, games 🎮, and adventures 🏍️🏕️
 
