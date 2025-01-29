@@ -5,7 +5,7 @@
 </p>
 
 ## A Glimpse of Me 🕵️
-- 🚀 **Software Developer** specialized in **serverless architectures**, powering diverse projects, ranging from **blockchain implementations**, **P2P payment solutions** to many more!
+- 🚀 **Software Developer**.
 
 <img
   src="https://github.com/AlejandroLuisHC/AlejandroLuisHC/blob/master/assets/productive-inf.gif" 
