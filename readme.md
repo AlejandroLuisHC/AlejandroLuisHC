@@ -19,7 +19,7 @@
 - 📫 How to reach me: <br>
       [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrolherrero)
       [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alejandrolhc@gmail.com&su=GitHub:+Let's+connect!)
-      [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]([https://mail.google.com/mail/?view=cm&fs=1&to=alejandrolhc@gmail.com&su=GitHub:+Let's+connect!](https://gitlab.com/AlejandroLuisHC))
+      [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AlejandroLuisHC)
 
 <br><br><br>
 
