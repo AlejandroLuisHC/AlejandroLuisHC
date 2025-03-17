@@ -1,4 +1,4 @@
-# Welcome to my Codebase 👨‍💻
+# Welcome to my Codebase
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AlejandroLuisHC&label=Profile%20views&color=0e75b6&style=flat&label=Visitor+number" alt="AlejandroLuisHC"/>
   <img src="https://wakatime.com/badge/user/1402c508-a91a-456d-b356-f531bef0abf4.svg" alt="AlejandroLuisHC Wakatime"/>
@@ -12,7 +12,7 @@
   alt="gif" align="right" height="270px" 
 />  
 
-- ⚙️ Leveraging **AWS Cloud Services** to build scalable and efficient **architectures**.
+- 🧑‍💻Currently working @ Moeve(CEPSA) in the ASM team.
 
 - ⚡Hobbies: Music 🎵, fantasy 🧙‍♂️, games 🎮, and adventures 🏍️🏕️
 
@@ -76,13 +76,23 @@
 ## Code Counts: <br> A Statistical Summary 📊
 <br>
 
-| ![AlejandroLuisHC's GitHub stats](https://github-readme-stats-ashen-mu-97.vercel.app/api?username=AlejandroLuisHC\&include_all_commits=true&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117&rank_icon=percentile) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&border=0d1117" alt="AlejandroLuisHCStreakStats" /> | 
+| ![AlejandroLuisHC's GitHub stats](https://github-readme-stats-ashen-mu-97.vercel.app/api?username=AlejandroLuisHC\&include_all_commits=true&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117&rank_icon=percentile) | <img style="margin: -20px" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHC&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&border=0d1117" alt="AlejandroLuisHCStreakStats" /> | 
 | ------------- | ------------- |
 | ![AlejandroLuisHC's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | ![AlejandroLuisHC's Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) 
 
+<sup><i>Hint: If the stats are not displaying, try refreshing.</i></sup>
+
+### At Moeve🔋 
+<a href="https://github.com/AlejandroLuisHCMoeve">
+  <img src="https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Moeve" style="vertical-align: top;" />
+</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroLuisHCMoeve&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&border=0d1117" alt="AlejandroLuisHCMoeveStreakStats" style="vertical-align: top; margin-right: 10px;" />
+</p>
+<hr> 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroLuisHC&theme=darkhub&margin-w=20)
 
-<sup><i>Hint: If the stats are not displaying, try refreshing.</i></sup>
 
 ## You've reached the pun-ishing point, enjoy the joke! 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
