@@ -21,7 +21,7 @@
       [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alejandrolhc@gmail.com&su=GitHub:+Let's+connect!)
       [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AlejandroLuisHC)
 
-<br><br><br>
+<br><br><br><br>
 
 ## My Toolbox: 🛠️
 ### Back-End Development:
