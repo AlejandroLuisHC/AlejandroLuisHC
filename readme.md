@@ -11,7 +11,7 @@
 />  
 - 🚀 **Software Developer**.
 
-- 🧑‍💻Currently working @ Moeve(CEPSA) in the ASM team.
+- 🧑‍💻Currently working @ Moeve (CEPSA).
 
 - ⚡Hobbies: Music 🎵, fantasy 🧙‍♂️, games 🎮, and adventures 🏍️🏕️
 
