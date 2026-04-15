@@ -11,7 +11,9 @@
 />  
 - 🚀 **Software Developer**.
 
-- 🧑‍💻Currently working @ Moeve (CEPSA).
+- 🧑‍💻Currently working @ Zurich Insurance.
+
+- 🧑‍💻Past experience @ Moeve (CEPSA).
 
 - ⚡Hobbies: Music 🎵, fantasy 🧙‍♂️, games 🎮, and adventures 🏍️🏕️
 
