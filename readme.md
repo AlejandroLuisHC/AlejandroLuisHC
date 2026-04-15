@@ -11,9 +11,9 @@
 />  
 - 🚀 **Software Developer**.
 
-- 🧑‍💻Currently working @ Zurich Insurance.
+- 🧑‍💻Currently working @ Zurich Insurance (GitLab).
 
-- 🧑‍💻Past experience @ Moeve (CEPSA).
+- 🧑‍💻Past working experience @ Moeve (CEPSA).
 
 - ⚡Hobbies: Music 🎵, fantasy 🧙‍♂️, games 🎮, and adventures 🏍️🏕️
 
