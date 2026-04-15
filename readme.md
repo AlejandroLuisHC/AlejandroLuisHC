@@ -11,7 +11,7 @@
 />  
 - 🚀 **Software Developer**.
 
-- 🧑‍💻Currently working @ Zurich Insurance (GitLab).
+- 🧑‍💻Currently working @ Zurich Insurance.
 
 - 🧑‍💻Past working experience @ Moeve (CEPSA).
 
