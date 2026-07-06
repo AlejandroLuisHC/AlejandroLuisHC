@@ -85,7 +85,7 @@
 | ------------- | ------------- |
 | ![AlejandroLuisHC's wakatime stats](https://github-readme-stats-ashen-mu-97.vercel.app/api/wakatime?username=AlejandroLHC&layout=compact&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) | ![AlejandroLuisHC's Top Langs](https://github-readme-stats-ashen-mu-97.vercel.app/api/top-langs/?username=AlejandroLuisHC&layout=donut&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&border_color=0d1117) 
 
-### At  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moeve_logo.svg/1200px-Moeve_logo.svg.png" alt="moeve logo" style="height: 16px;"/>⚡:
+### At  <img src="https://www.lubritec.com/wp-content/uploads/2025/10/Moeve_logo.svg-300x55.png" alt="moeve logo" style="height: 16px;"/>⚡:
 <a href="https://github.com/AlejandroLuisHCMoeve">
   <img src="https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Moeve" style="vertical-align: top;" />
 </a>
@@ -94,9 +94,6 @@
 </p>
 <sup><i>Hint: If the stats are not displaying, try refreshing.</i></sup>
 <hr> 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AlejandroLuisHC&theme=darkhub&margin-w=20)
-
 
 ## You've reached the pun-ishing point, enjoy the joke! 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
